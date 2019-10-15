@@ -1,6 +1,7 @@
-var name = 'Abhijeet shikhar';
-var age =  '24'
-var hobbies = true;
+let name = 'Abhijeet shikhar';
+let age =  24;
+let hobbies = true;
+age = 30;
 
 function myFunction(USername,Userage,Userhobbies){
     return (

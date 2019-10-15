@@ -1,0 +1,27 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Node js Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhijeet1995/Node-js.git"
+  },
+  "author": "Abhijeet shikhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhijeet1995/Node-js/issues"
+  },
+  "homepage": "https://github.com/abhijeet1995/Node-js#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
